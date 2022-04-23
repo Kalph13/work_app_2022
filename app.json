@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Tutorial_React",
-    "slug": "Tutorial_React",
+    "name": "tutorial_react_native_work",
+    "slug": "tutorial_react_native_work",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.kalph13.tutorial_react_native_work"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
